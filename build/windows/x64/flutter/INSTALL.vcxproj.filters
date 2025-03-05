@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\prath\Desktop\Payouts Ui\Flutter-Responsive-Admin-Panel-or-Dashboard-master\build\windows\x64\CMakeFiles\ed1c04163a38f354068f25cd4c630634\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AC52CDEF-4314-3CBB-B577-5EC1453C2FAC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -274,7 +274,16 @@ SingleChildScrollView column(BuildContext context, double height) {
             ),
             Container(height: 25),
             InkWell(
-              onTap: () {
+              onTap: () {Get.offAll(() => MultiProvider(
+            providers: [
+              ChangeNotifierProvider(
+                create: (context) => MenuAppController(),
+              ),
+            ],
+            child: MainScreen(),
+          ));
+
+
         
               },
               child: Row(

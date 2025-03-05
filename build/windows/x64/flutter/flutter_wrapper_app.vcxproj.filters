@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\prath\Desktop\Payouts Ui\Flutter-Responsive-Admin-Panel-or-Dashboard-master\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\prath\Desktop\Payouts Ui\Flutter-Responsive-Admin-Panel-or-Dashboard-master\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\prath\Desktop\Payouts Ui\Flutter-Responsive-Admin-Panel-or-Dashboard-master\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\prath\Desktop\Payouts Ui\Flutter-Responsive-Admin-Panel-or-Dashboard-master\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\prath\Desktop\Payouts Ui\Flutter-Responsive-Admin-Panel-or-Dashboard-master\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AC52CDEF-4314-3CBB-B577-5EC1453C2FAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9AA6F53-7E8F-3F3F-A9E2-4176347396B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
